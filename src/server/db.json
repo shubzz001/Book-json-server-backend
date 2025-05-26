@@ -1,0 +1,82 @@
+{
+    "bookData": [
+        {
+            "id": "1",
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "publishedDate": "1960-07-11",
+            "publisher": "J.B. Lippincott & Co.",
+            "isbn": "978-0-06-112008-4",
+            "genre": "Fiction",
+            "pages": 281,
+            "price": 12.99,
+            "quantity": 15,
+            "description": "A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl."
+        },
+        {
+            "title": "19844",
+            "author": "George Orwell",
+            "publishedDate": "1949-06-08",
+            "publisher": "Secker & Warburg",
+            "isbn": "978-0-452-28423-4",
+            "genre": "Dystopian Fiction",
+            "pages": 328,
+            "price": 13.99,
+            "quantity": 22,
+            "description": "A dystopian social science fiction novel that follows Winston Smith, a low-ranking member of 'the Party' in London, in the nation of Oceania, where the Party exercises total control over the inhabitants.",
+            "id": "2"
+        },
+        {
+            "id": "3",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "publishedDate": "1813-01-28",
+            "publisher": "T. Egerton",
+            "isbn": "978-0-14-143951-8",
+            "genre": "Romance",
+            "pages": 432,
+            "price": 11.99,
+            "quantity": 18,
+            "description": "A romantic novel of manners follows the character development of Elizabeth Bennet, the dynamic protagonist, who learns about the repercussions of hasty judgments."
+        },
+        {
+            "id": "5",
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "publishedDate": "1951-07-16",
+            "publisher": "Little, Brown and Company",
+            "isbn": "978-0-316-76948-0",
+            "genre": "Coming-of-age Fiction",
+            "pages": 277,
+            "price": 12.5,
+            "quantity": 8,
+            "description": "The story of Holden Caulfield, a teenager from New York City who is expelled from his prep school and then takes a journey around his hometown."
+        },
+        {
+            "id": "6",
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "publishedDate": "1997-06-26",
+            "publisher": "Bloomsbury",
+            "isbn": "978-0-439-70818-8",
+            "genre": "Fantasy",
+            "pages": 309,
+            "price": 14.99,
+            "quantity": 25,
+            "description": "The first novel in the Harry Potter series, following young Harry Potter as he discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry."
+        },
+        {
+            "id": "7",
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "publishedDate": "1954-07-29",
+            "publisher": "George Allen & Unwin",
+            "isbn": "978-0-544-00341-5",
+            "genre": "Fantasy",
+            "pages": 1216,
+            "price": 24.99,
+            "quantity": 10,
+            "description": "An epic high-fantasy novel that follows the quest to destroy the One Ring and defeat the Dark Lord Sauron in Middle-earth."
+        }
+    ]
+}
